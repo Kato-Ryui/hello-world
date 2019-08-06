@@ -2,4 +2,4 @@
 ハローワールド
 
 
-I'm Japanese high school student.
+I'm Japanese university student.
